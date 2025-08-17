@@ -1,4 +1,4 @@
-# 📝 Python Practice Questionnaire
+# Python Practice Questionnaire
 
 This questionnaire covers **Arithmetic & Operators (1–25)** and **String Operations (26–50)**.  
 It includes coding tasks, output predictions, and conceptual questions.
