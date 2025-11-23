@@ -1,7 +1,4 @@
 # Python Exercises: Data Types, Operators, and Strings (No Conditionals or Loops)
-
-Below are 50 simple expressions and string‑method tasks that use only data types, operators, and string methods—no `if` statements or loops.
-
 ---
 
 ## A. Arithmetic & Operators (1–25)
