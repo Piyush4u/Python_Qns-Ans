@@ -36,7 +36,7 @@ print(L[10:])
 
 ---
 
-### Section C - Long Answers
+### Section C - Short Answers
 
 7. Text Analyzer
 
@@ -54,5 +54,6 @@ c) Max.
 10. Count the length of a string without using ```len()``` function.
 
 ---
+
 
 **END OF PAPER**
